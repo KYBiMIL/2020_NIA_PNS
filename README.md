@@ -58,7 +58,7 @@ For example,
 python train.py --fold 0 --trained_model='model/trained-model-fold0.pth' 
 ```
 ## 4. Licenses
-Copyright (c) MINDs n company. All rights reserved.
+Copyright 2020. KONYANG UNIVERSITY HOSPITAL and (c) MINDs n company. All rights reserved.
 
 Licensed under the Apache License, Version 2.0.
 
